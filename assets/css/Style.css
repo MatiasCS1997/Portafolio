@@ -31,3 +31,7 @@ body {
   font-weight: lighter;
   font-size: 20px;
 }
+
+.border {
+  background-color: #eb820b;
+}
