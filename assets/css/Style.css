@@ -1,3 +1,33 @@
+/** @format */
+
+body {
+  background-image: linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
+    url("../img/Roma\ background.png");
+  background-size: contain;
+}
+
 #navbarNav {
-    justify-content: right;
-  }
+  justify-content: right;
+}
+
+.carousel img {
+  height: 65vh;
+}
+
+.carousel {
+  margin-left: 15rem;
+  margin-right: 15rem;
+}
+
+.carousel {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.card-body,
+.card-title,
+.form-control,
+.button {
+  font-weight: lighter;
+  font-size: 20px;
+}
