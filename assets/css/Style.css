@@ -6,6 +6,10 @@ body {
   background-size: contain;
 }
 
+.container-fluid {
+  background-color: #eb820b;
+}
+
 #navbarNav {
   justify-content: right;
 }
@@ -33,5 +37,9 @@ body {
 }
 
 .border {
+  background-color: #eb820b;
+}
+
+.footer {
   background-color: #eb820b;
 }
